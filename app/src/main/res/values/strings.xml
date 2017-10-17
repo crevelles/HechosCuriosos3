@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hechos Curiosos</string>
+    <string name="sabias_que">¿Sabías que?</string>
+    <string name="hecho_curioso1">Las hormigas se estiran cuando se despiertan por la mañana</string>
+    <string name="botonSiguiente">Ver otro hecho curioso</string>
+</resources>
